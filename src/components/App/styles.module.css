@@ -1,0 +1,30 @@
+.error {
+  color: red;
+}
+
+.strength {
+  width: min-content;
+  padding: 8px;
+  margin: 8px 0;
+  white-space: nowrap;
+}
+
+.strength_0 {
+  background-color: #e44242;
+}
+
+.strength_1 {
+  background-color: #f99f4a;
+}
+
+.strength_2 {
+  background-color: #1493ff;
+}
+
+.strength_3 {
+  background-color: #36c565;
+}
+
+.strength_4 {
+  background-color: #36c565;
+}
